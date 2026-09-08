@@ -25,15 +25,15 @@ const clubData = {
 
         home: "ستاره سرخ فرهاد",
 
-        away: "تیم حریف",
+        away: "منتخب فرهنگسرا",
 
-        homeScore: 3,
+        homeScore: 9,
 
-        awayScore: 1,
+        awayScore: 7,
 
         date: "۷ شهریور ۱۴۰۵",
 
-        stadium: "ورزشگاه ستاره سرخ"
+        stadium: "ورزشگاه فرهاد آرنا"
 
     },
 
@@ -46,13 +46,13 @@ const clubData = {
 
         home: "ستاره سرخ فرهاد",
 
-        away: "تیم آینده",
+        away: "نامشخص",
 
-        date: "۱۲ شهریور ۱۴۰۵",
+        date: "",
 
-        time: "۱۸:۰۰",
+        time: "",
 
-        stadium: "ورزشگاه ستاره سرخ"
+        stadium: "ورزشگاه فرهاد آرنا"
 
     },
 
